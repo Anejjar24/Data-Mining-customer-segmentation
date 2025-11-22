@@ -13,6 +13,8 @@ data preprocessing, clustering steps, and evaluation. - A **Streamlit
 web application** for interactive visualization of clusters. - A
 detailed **PDF report** summarizing the methodology and results.
 
+<img width="408" height="421" alt="Image" src="https://github.com/user-attachments/assets/7874ee96-03ae-42b0-9780-c317c9bb1844" />
+
 ------------------------------------------------------------------------
 
 ## 🔍 Methods & Techniques
